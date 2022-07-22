@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deekb
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on anythong
+- 📫 Reach me at Derek.m.baier@gmail.com
 
 <!---
 deekb/deekb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
